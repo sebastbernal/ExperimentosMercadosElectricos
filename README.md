@@ -1,4 +1,4 @@
-# Experimentos Economicos en Mercados Electricos. Software de Uso Libre.
+# EExperimentos Económicos en Mercados Eléctricos. Software de Uso Libre.
 
 En este repositorio público se puede encontrar la documentación del software, así como las siguientes url de interes.
 
