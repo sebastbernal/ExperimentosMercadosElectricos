@@ -1,0 +1,17 @@
+{% extends "global/Page.html" %}
+{% load otree static %}
+
+{% block title %}
+Calculo de Resultados
+{% endblock %}
+
+{% block content %}
+<h5>Tus resultados ya fueron calculados.</h5>
+<p>Presiona el boton 'Siguiente' para visualizarlos y pasar a la siguiente ronda.</p>
+{% formfields %}
+
+{% next_button %}
+
+
+{% endblock %}
+

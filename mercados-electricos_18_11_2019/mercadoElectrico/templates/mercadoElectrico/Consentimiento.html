@@ -1,0 +1,23 @@
+{% extends "global/Page.html" %}
+{% load otree static %}
+
+{% block title %}
+    Consentimiento Informado.
+{% endblock %}
+
+{% block content %}
+ <p align="justify">
+    Usted ha sido invitado a participar en este ejercicio que hace parte de un estudio sobre mercados eléctricos. Gracias a su participación en el juego y en las publicaciones que surjan de este, el sector científico se beneficiará de este estudio. Usted recibirá un pago en efectivo que depende de su desempeño en el juego. Al final del experimento deberá contestar algunas preguntas acerca del ejercicio y demográficas. Tanto la entrega del pago como la información sobre la forma como jugó cada participante en el juego se mantendrá en privado y para fines puramente académicos. Su participación en este ejercicio es totalmente voluntaria. Usted puede retirarse en cualquier momento. Sin embargo, si decide retirarse, no podrá recibir su pago pues es necesario jugar todos los periodos completos para poder calcular el pago final.
+ </p>
+ <br>
+ <p> <strong> ACEPTACION: </strong> </p>
+ <br>
+ <p align="justify">
+     Al pasar a la siguiente sección seleccionando el botón "Next", yo declaro que comprendo la información anterior y mis derechos y compromisos durante este ejercicio. También reconozco que puedo retirarme en cualquier momento del juego y renunciar a recibir mi pago al final. Así, como recibir una copia de este consentimiento en cualquier momento.
+ </p>
+
+{% formfields %}
+
+    {% next_button %}
+
+{% endblock %}
