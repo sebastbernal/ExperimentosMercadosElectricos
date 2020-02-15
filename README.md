@@ -12,7 +12,11 @@ Para descargar el software: https://s3.amazonaws.com/otreehub/public_blobs/merca
 
 Autores:
 Santiago Arango-Aramburo. Universidad Nacional de Colombia sede Medellín
+
 Felipe Barco Benavides. Universidad Nacional de Colombia sede Medellín
+
 Sebastián Bernal-García. Universidad Nacional de Colombia sede Medellín
+
 Karla C. Álvarez Uribe. Instituto Tecnológico Metropolitano.
+
 Sebastián Bernal-García. Instituto Tecnológico Metropolitano.
