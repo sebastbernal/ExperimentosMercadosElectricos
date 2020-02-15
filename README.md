@@ -11,6 +11,7 @@ Para explorar el código del software online: https://s3.amazonaws.com/otreehub/
 Para descargar el software: https://s3.amazonaws.com/otreehub/public_blobs/mercados-electricos.otreezip
 
 Autores:
+
 Santiago Arango-Aramburo. Universidad Nacional de Colombia sede Medellín
 
 Felipe Barco Benavides. Universidad Nacional de Colombia sede Medellín
