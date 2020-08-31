@@ -1,4 +1,4 @@
-# Experimentos Económicos en Mercados Eléctricos. Software de Uso Libre.
+# Experimentos Económicos en Mercados Eléctricos. MOME – Modelling electricity markets - a supply game. Software de Uso Libre.
 
 En este repositorio público se puede encontrar la documentación del software, así como las siguientes url de interes.
 
@@ -13,10 +13,6 @@ Para descargar el software: https://s3.amazonaws.com/otreehub/public_blobs/merca
 Autores:
 
 Santiago Arango-Aramburo. Universidad Nacional de Colombia sede Medellín
-
-Felipe Barco Benavides. Universidad Nacional de Colombia sede Medellín
-
-Sebastián Bernal-García. Universidad Nacional de Colombia sede Medellín
 
 Karla C. Álvarez Uribe. Instituto Tecnológico Metropolitano.
 
